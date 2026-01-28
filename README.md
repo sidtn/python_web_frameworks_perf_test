@@ -1,4 +1,4 @@
-# Python Frameworks Test Results
+# Python Frameworks Benchmark Results
 
 This repo compares several web stacks serving the same endpoints and database schema.
 
